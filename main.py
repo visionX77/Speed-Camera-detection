@@ -146,6 +146,7 @@ while True:
                 if crossed_line2:
                     crossing_times[track_id][2] = video_time
 
+
                 times = crossing_times[track_id]
 
                 if 1 in times and 2 in times:
